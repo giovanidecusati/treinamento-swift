@@ -2,6 +2,7 @@
 
 1. [Exercícios](https://github.com/CWISoftware/treinamento-ios)
 2. [Alamofire - HTTP lib](https://github.com/Alamofire/Alamofire)
+3. [Wiremock](http://wiremock.org/docs/api/)
 
 ```
 pod init
