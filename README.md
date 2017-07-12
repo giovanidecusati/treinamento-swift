@@ -20,3 +20,5 @@ adicionar no info.plist
 3. Não usar TableView dentro de ScrollView.
 4. Command + Click: navega para o método.
 5. Command + = : atualiza as cosntraints.
+6. Acessos a Photo Library, Câmera, etc precisam de permissão do usuário: Adicionar no info.plist as TAGs: Privacy - Camera Usage Description e Privacy - Photo Library Usage Description
+7. QuickTime: conecta no iPhone para rodar o APP no dispositivo, testar camera, etc...
