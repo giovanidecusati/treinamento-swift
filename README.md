@@ -22,3 +22,4 @@ adicionar no info.plist
 5. Command + option + equal : atualiza as constraints.
 6. Acessos a Photo Library, Câmera, etc precisam de permissão do usuário: Adicionar no info.plist as TAGs: Privacy - Camera Usage Description e Privacy - Photo Library Usage Description
 7. QuickTime: conecta no iPhone para rodar o APP no dispositivo, testar camera, etc...
+8. Não esquecer de ao utilizar TableView fazer o binding do DataSource e Delegate com a View principal (arrastar com control).
